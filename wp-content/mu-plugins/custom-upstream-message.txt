@@ -1,1 +1,1 @@
-Custom upstream message: Updating 199 sites with name test-bulk-upstream
+Custom upstream message: Updating 250 sites in bulk
